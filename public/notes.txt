@@ -1,0 +1,3 @@
+ln -s /home/inos6362/public_html/inopak_apps/storage/app/public /home/inos6362/public_html/inopak_apps/public/storage
+
+untuk artisan storage:link
